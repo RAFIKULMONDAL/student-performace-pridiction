@@ -1,0 +1,2 @@
+Copy the official UCI student-mat.csv file into this folder.
+Expected path: data/student-mat.csv
